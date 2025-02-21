@@ -1,19 +1,5 @@
 # ExchangeEase: Telegram Currency Conversion Chatbot
 
-## Table of Contents
-- [Overview](#overview)
-- [Features](#features)
-- [Architecture](#architecture)
-- [Prerequisites](#prerequisites)
-- [Installation](#installation)
-- [Usage](#usage)
-- [API Reference](#api-reference)
-- [Telegram Integration](#telegram-integration)
-- [Deployment](#deployment)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
-
 ## Overview
 
 ExchangeEase is a sophisticated currency conversion chatbot deployed on Telegram. It leverages Google Dialogflow for natural language processing, a Flask-based API for backend logic, and ngrok for secure tunneling during development. This solution provides real-time currency conversion capabilities directly within Telegram, ensuring seamless user experience and efficient performance.
